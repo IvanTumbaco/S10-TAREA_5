@@ -1,0 +1,19 @@
+body{
+    background-color: azure;
+}
+#tt{
+    color: brown;
+}
+#ss{
+    color: coral;
+}
+.box{
+    width: 500px;
+    height: 100px;
+    background-color: darkgray;
+    margin: 5px;
+    float: center;
+}
+h1{
+    color: brown;
+}
